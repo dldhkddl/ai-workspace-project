@@ -1,0 +1,10 @@
+.env
+.pytest_cache/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+.test-deps/
+build/
+.trial-run.json
+scripts/__pycache__/
